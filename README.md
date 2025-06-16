@@ -27,7 +27,8 @@ chmod +x datagram.sh
 
 🧪 How to Use the Script
 
-Command	What it Does
+Commands and	What it Does.
+
 Starts the node (prompts for API key)
 ```
 ./datagram.sh start
