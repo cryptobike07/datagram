@@ -26,10 +26,9 @@ chmod +x datagram.sh
 ```
 
 🧪 How to Use the Script
+---
 
-Commands and	What it Does.
-
-Starts the node (prompts for API key)
+Start the node (prompts for API key)
 ```
 ./datagram.sh start
 ```
@@ -37,7 +36,7 @@ Stops the running node
 ```
 ./datagram.sh stop
 ```
-Checks if node is running ✅ or not ❌
+Checks if node is running ✅ or not ❌ (maybe after a reboot)
 ```
 ./datagram.sh status
 ```
@@ -48,7 +47,14 @@ Stops + restarts the node (asks for key again)
 
 YOU MUST BE IN THE DATAGRAM DIR FOR THOSE COMMANDS TO WORK.
 ```
+cd
+```
+```
 cd datagram
+```
+To remove the directory from PC
+```
+rm -rf datagram
 ```
 
 🙏 Credits
