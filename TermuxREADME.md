@@ -63,6 +63,9 @@ apt update && apt upgrade -y
 ```bash
 apt install curl wget git build-essential -y
 ```
+```
+apt install procps -y
+```
 
 
 ### 1. Download & Make Executable
