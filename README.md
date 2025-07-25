@@ -16,7 +16,12 @@
 Get the API, you will use it later:
 Wallet > Licenses > License Key
 
-2. Tutorial on Setting up VPS.
+Tutorial Below is for Linux. You can also run it using you Mac/Windows.
+<img width="930" height="601" alt="Screenshot 2025-07-25 at 9 52 48 AM" src="https://github.com/user-attachments/assets/96157d2f-b526-4984-97d2-05c4c26a632a" />
+https://dashboard.datagram.network/wallet > Download. 
+
+
+2. Tutorial on Setting up VPS + Linux.
 
 Rent a VPS VPS is (Virtual Private Server that runs 24/7) “I’m using VPS in all my Linux NODES.” Hardware Requirement: Works with simple hardware — easy to get started but I can run it in my VPS3.
 
