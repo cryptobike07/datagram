@@ -1,8 +1,4 @@
-# 🛰️ Datagram Node One-Click Setup by @admirkhen
-
-This is a one-click smart script to run the **Datagram Node CLI** on any Ubuntu-based machine — including VPS or Termux QEMU, Your local PC.
-
-> ✅ Built by Saint Khen — [@admirkhen](https://twitter.com/admirkhen)
+# 🛰️ Datagram Node One-Click Setup
 
 ---
 
@@ -13,9 +9,16 @@ This is a one-click smart script to run the **Datagram Node CLI** on any Ubuntu-
 - Starts the node in the background and shows status
 - Supports simple commands: `start`, `stop`, `status`, `restart`
 
+
+1. Register in Datagram:
+https://dashboard.datagram.network?ref=515818750
+
+Get the API, you will use it later:
+Wallet > Licenses > License Key
+
 ---
 
-Tutorial on Setting up VPS.
+2. Tutorial on Setting up VPS.
 
 Rent a VPS VPS is (Virtual Private Server that runs 24/7) “I’m using VPS in all my Linux NODES.” Hardware Requirement: Works with simple hardware — easy to get started but I can run it in my VPS3.
 
@@ -28,7 +31,9 @@ Download putty.org > log in to your IP there. After Connected, We can now Start.
 You have now your own Ubuntu(Linux Server) that runs 24/7 in other country. 
 Let’s Navigate!
 
-## 🚀 Usage Guide
+
+
+3. ## 🚀 Usage Guide
 
 
 ### 1. Install Screen(Ignore if you already have) and use screen.
@@ -37,7 +42,6 @@ Screen is like window that you can go back anytime.
 ```bash
 apt install screen
 screen -S datagram
-
 
 ```
 
@@ -52,10 +56,13 @@ chmod +x datagram.sh
 🧪 How to Use the Script
 ---
 
-Start the node (prompts for API key)
+Start the node (prompts for API key; paste the API Key(License Key you got Earlier)
 ```
 ./datagram.sh start
+
 ```
+![Image](https://www.mediafire.com/file/r61uoq73ypqmod4/Screenshot+2025-07-25+at+9.14.55 AM.png/file)
+
 Stops the running node
 ```
 ./datagram.sh stop
