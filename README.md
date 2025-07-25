@@ -9,14 +9,12 @@
 - Starts the node in the background and shows status
 - Supports simple commands: `start`, `stop`, `status`, `restart`
 
-
+---
 1. Register in Datagram:
-https://dashboard.datagram.network?ref=515818750
+[https://dashboard.datagram.network](https://dashboard.datagram.network?ref=515818750)
 
 Get the API, you will use it later:
 Wallet > Licenses > License Key
-
----
 
 2. Tutorial on Setting up VPS.
 
