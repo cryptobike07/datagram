@@ -61,7 +61,7 @@ Start the node (prompts for API key; paste the API Key(License Key you got Earli
 ./datagram.sh start
 
 ```
-<img width="714" height="272" alt="Screenshot 2025-07-25 at 9 14 55 AM" src="https://github.com/user-attachments/assets/8305f10c-fe79-47e5-bd4a-9c60779dba73" />
+
 
 Stops the running node
 ```
@@ -70,6 +70,12 @@ Stops the running node
 Checks if node is running ✅ or not ❌ (maybe after a reboot)
 ```
 ./datagram.sh status
+```
+<img width="714" height="272" alt="Screenshot 2025-07-25 at 9 14 55 AM" src="https://github.com/user-attachments/assets/8305f10c-fe79-47e5-bd4a-9c60779dba73" />
+
+You can Also Check in Dashboard if Running.
+<img width="1512" height="792" alt="Screenshot 2025-07-25 at 9 39 26 AM" src="https://github.com/user-attachments/assets/cb415176-67dc-4d7c-a061-f4f1f7d8ef52" />
+
 ```
 Stops + restarts the node (asks for key again)
 ```
