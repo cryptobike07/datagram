@@ -61,7 +61,7 @@ Start the node (prompts for API key; paste the API Key(License Key you got Earli
 ./datagram.sh start
 
 ```
-![Image](https://www.mediafire.com/file/r61uoq73ypqmod4/Screenshot+2025-07-25+at+9.14.55 AM.png/file)
+<img width="714" height="272" alt="Screenshot 2025-07-25 at 9 14 55 AM" src="https://github.com/user-attachments/assets/8305f10c-fe79-47e5-bd4a-9c60779dba73" />
 
 Stops the running node
 ```
